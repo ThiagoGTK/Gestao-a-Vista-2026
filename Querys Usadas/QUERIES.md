@@ -661,5 +661,3 @@ in
 | `WHERE PEV_STATDIS = 2` | Filtro SQL para pedidos a faturar (status 2 = liberado) |
 
 ---
-
-*Documentação gerada automaticamente via MCP Power BI Modeling — 20/02/2026*
